@@ -1,9 +1,10 @@
-# Tarea-3-IngSoft
+
+# IngenieriaSoftwareTarea3
+
 Tarea 3.- Dockerización y Conexión con Base de Datos
 
 Alumno: Sanchez Gonzalez Daniel Ivan
 
-# IngenieriaSoftwareTarea3
 
 ## Tecnologías Utilizadas
 
@@ -11,7 +12,7 @@ El proyecto utiliza las siguientes tecnologías:
 
 - **Java 21** (Amazon Corretto)
 - **Spring Boot**
-- **Maven 3.9.9**
+- **Maven**
 - **Docker**
 - **VS Code**
 
@@ -29,7 +30,7 @@ Para obtener una copia local del proyecto, ejecuta:
 
 ```sh
 git clone https://github.com/NavyStarite/Tarea-3-IngSoft.git
-cd tu-repositorio
+cd Tarea-3-IngSoft
 ```
 
 ## Compilar y Ejecutar la Aplicación
@@ -58,7 +59,12 @@ La aplicación estará disponible en: [http://localhost:18080/home](http://local
 
 ## Capturas de Pantalla
 
-
+### Inicio
+![Image](https://github.com/user-attachments/assets/61e8dc31-245b-46f0-9481-f8d8e2a0bb93)
+### Registro Exitoso
+![Image](https://github.com/user-attachments/assets/d4b6a902-f9ad-43f4-b9d3-8a4d2563b1c0)
+### Sistema Funcionando
+![Image](https://github.com/user-attachments/assets/2612d0d5-a230-4a91-9089-69421a3a85d5)
 
 ## Investigación
 
